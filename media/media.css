@@ -1,0 +1,401 @@
+@media (min-width: 480px)and (max-width: 767px) {
+	/*body{
+			background-color: red;
+       }                                             
+	}*/
+  /*.box_img{
+          margin: 17px;
+         height: 38px;
+         
+  }*/
+  .box {
+    position: absolute;
+    height: 125px;
+    width: 27rem;
+    background-color: #fff;
+    border-radius: 40px 40px 0 0;
+    margin-top: -80px;
+    margin-left: 8%;
+   /* z-index: 9999;*/
+    border-top: 20px solid #005fb3;
+    text-align: left;
+    box-shadow: 0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+}
+  /*////////*/
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgba(255,255,255,.1);
+    margin-left: 35rem;
+    margin-top: -2rem;
+  }
+
+  .middel_img img{
+    width: 100%;
+  }
+
+ /* .card_color {
+    background-color: #0cc4ef;
+    color: #fff;
+    width: 31rem;
+}*/
+.facts_txt h2 {
+  font-size: 2rem;
+
+}
+.count_500 {
+    height: auto;
+}
+.Untitled-12_img {
+    margin-top: -21px;
+    height: 58px;
+    padding-top: 7px;
+}
+.card  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    height: 33px;
+}
+
+
+.card p{
+
+  font-size: 9px;
+}
+
+.card h6{
+  font-size: 10px;
+    font-weight: bold;
+}
+.Untitled-8_img {
+    margin-top: -13px;
+    height: 40px;
+}
+
+
+.card-body{
+
+  padding: 10px;
+}
+
+.card-body img{
+  height: 44px;
+  margin-top: -11px;
+}
+.card {
+    border-radius: 0px;
+    height: 13rem;
+    padding-top: 7px;
+}
+
+.card_color {
+    background-color: #0cc4ef;
+    color: #fff;
+    width: 31rem;
+
+}
+.icon_card {
+    height: 80px;
+    width: 80px;
+    /*background-color: #fff;*/
+    border-radius: 50px;
+    margin-top: 1vh;
+    margin-left: 0px;
+    }
+
+/*    .hire_txt p{
+         margin-bottom: -39px;
+    
+    font-size: 11px;
+    }*/
+
+     .rights_footer{
+      text-align: center;
+     }
+
+    .rights_footer span {
+    
+    margin-top: 2vh;
+    float: none;
+}
+.date_txt {
+    float: left;
+    display: inline-block;
+    margin-top: 17%;
+    margin-left: 12px;
+  }
+  .date_txt h4{
+    font-size: 11px;
+  }
+  .submit_btn button {
+    float: left;
+    border-radius: 20px;
+    text-align: center;
+    height: auto;
+    width: 87px;
+    /* margin-left: -43px; */
+    margin-top: -8px;
+
+  }
+
+  .adress_btn input {
+    border: none;
+    height: auto;
+    width: 50%;
+    border-radius: 20px;
+    text-align: center;
+    float: left;
+    /* font-size: 18px; */
+    padding: 6px;
+    margin-top: -7px;
+    }
+  }
+
+
+  @media (min-width: 767px) and (max-width:1024px) {
+
+
+.middel_img {
+       width: 35rem;
+           text-align: left;
+
+  }
+
+  .box {
+    
+    margin-left: 9%;
+    margin-top: -56px;
+    }
+    .middel {
+    background: url(Untitled-3.jpg) no-repeat;
+    height: auto;
+    /* width: auto; */
+    padding-bottom: 2vh;
+  }
+
+  .card-body {
+       flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    height: 16rem;
+    /* margin-top: 1rem; */
+    /* margin-bottom: 0rem; */
+    margin-bottom: 1rem;
+
+
+    }
+
+    .Untitled-8_img {
+    margin-top: -10px;
+    height: 9vh;
+    padding-bottom: 1px;
+    margin-bottom: 9px;
+}
+
+.card h6 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    height: 2rem;
+    font-size: 14px;
+}
+
+.img_10 {
+  margin-top: -2px;
+  }
+.card_color {
+    background-color: #0cc4ef;
+    color: #fff;
+    /*height: 73px;*/
+}
+/*
+.card_2_img img{
+
+  height: 41vh;
+}*/
+
+
+.icon_card {
+    height: 64px;
+    width: 64px;
+    /*background-color: #fff;*/
+    border-radius: 50px;
+    margin: -2px;
+}
+
+
+.card_2_icon .icon_card  img{
+
+    /* height: 31px;*/
+} 
+
+ .card_2_icon h3{
+
+  margin-top: 6px;
+    font-size: 3vh;
+}
+
+.card_2_icon p{
+
+  font-size: 12px;
+}
+
+
+.coun_50 {
+    height: 100px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 50px;
+    margin: 36% 0px 0px 3rem;
+    text-align: center;
+    padding-top: 3px;
+    /* float: right; */
+}
+
+.count_20 {
+    float: none;
+    margin-top: 4vh;
+}
+
+.counter_20 {
+    height: 100px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 50px;
+    /* margin: -116px 0px 0px 169px; */
+    text-align: center;
+    font-size: 2vh;
+    float: right;
+    /* padding-right: 31px; */
+    margin-right: 4rem;
+    margin-top: -7rem;
+}
+
+
+.date_txt h4{
+
+  font-size: 17px;
+    /* margin-left: -6px; */
+    margin-top: 21px;
+
+}
+
+.adress_btn input {
+        border: none;
+    /* height: 40px; */
+    /* width: 50%; */
+    /* border-radius: 20px; */
+    text-align: center;
+    /* float: left; */
+    float: right;
+    margin-right: 62px;
+}
+
+.submit_btn button{
+
+  float: right;
+    margin-left: 20rem;
+    margin-top: -39px;
+}
+
+.wtp_icon {
+    float: left;
+    margin-right: 41px;
+    font-size: 7vh;
+    margin: -12vh 0vh 0vh 28vh;
+    padding-bottom: 2rem;
+}
+
+.footer h4 {
+
+  font-size: 21px;
+}
+
+
+.Navigation:before {
+    content: "";
+    position: absolute;
+    top: 83px;
+    left: 2vh;
+    right: 0;
+    bottom: 0;
+    width: 30px;
+    height: 3px;
+    background-color: blue;
+}
+}
+
+  @media (min-width: 1024px)and (max-width:1200px){
+
+   
+.card_2_icon p {
+         font-size: 15px;
+    padding-top: 3px;
+}
+
+
+.middel_img {
+    width: 35rem;
+    /*text-align: left;*/
+}
+
+.box {
+    position: absolute;
+    height: 125px;
+    width: 277px;
+    background-color: #fff;
+    border-radius: 40px 40px 0 0;
+    margin-top: -80px;
+    
+    margin-left: 31%;
+    /* z-index: 9999; */
+    border-top: 20px solid #005fb3;
+    text-align: center;
+    box-shadow: 0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 22%);
+}
+
+.coun_50 {
+    height: 100px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 50px;
+    margin: 19% 0px 0px 9rem;
+    text-align: center;
+    padding-top: 3px;
+    /* float: right; */
+}
+
+.wtp_icon {
+    float: left;
+    margin-right: 41px;
+    font-size: 7vh;
+    margin: -11vh 0vh 0vh 35vh;
+    padding-bottom: 2rem;
+}
+.Navigation:before {
+    content: "";
+    position: absolute;
+    top: 86px;
+    left: 15px;
+    right: 0;
+    bottom: 0;
+    width: 30px;
+    height: 3px;
+    background-color: blue;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    height: 17rem;
+}
+
+
+  }
